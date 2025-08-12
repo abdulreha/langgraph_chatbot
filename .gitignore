@@ -28,3 +28,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+# SQLite database files (anywhere in the repo)
+*.db
+*.db-shm
+*.db-wal
